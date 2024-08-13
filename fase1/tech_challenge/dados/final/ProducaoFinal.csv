@@ -1,0 +1,2539 @@
+classe;control;produto;ano;litros
+VINHO DE MESA;vm_Tinto;Tinto;1970-01-01;174224052
+VINHO DE MESA;vm_Tinto;Tinto;1971-01-01;121133369
+VINHO DE MESA;vm_Tinto;Tinto;1972-01-01;118180926
+VINHO DE MESA;vm_Tinto;Tinto;1973-01-01;88589019
+VINHO DE MESA;vm_Tinto;Tinto;1974-01-01;146544484
+VINHO DE MESA;vm_Tinto;Tinto;1975-01-01;144274134
+VINHO DE MESA;vm_Tinto;Tinto;1976-01-01;118360170
+VINHO DE MESA;vm_Tinto;Tinto;1977-01-01;154801826
+VINHO DE MESA;vm_Tinto;Tinto;1978-01-01;162917363
+VINHO DE MESA;vm_Tinto;Tinto;1979-01-01;154736439
+VINHO DE MESA;vm_Tinto;Tinto;1980-01-01;101659755
+VINHO DE MESA;vm_Tinto;Tinto;1981-01-01;134156175
+VINHO DE MESA;vm_Tinto;Tinto;1982-01-01;183349460
+VINHO DE MESA;vm_Tinto;Tinto;1983-01-01;87080528
+VINHO DE MESA;vm_Tinto;Tinto;1984-01-01;119615028
+VINHO DE MESA;vm_Tinto;Tinto;1985-01-01;216732390
+VINHO DE MESA;vm_Tinto;Tinto;1986-01-01;118766694
+VINHO DE MESA;vm_Tinto;Tinto;1987-01-01;97841160
+VINHO DE MESA;vm_Tinto;Tinto;1988-01-01;173747942
+VINHO DE MESA;vm_Tinto;Tinto;1989-01-01;136931173
+VINHO DE MESA;vm_Tinto;Tinto;1990-01-01;154359897
+VINHO DE MESA;vm_Tinto;Tinto;1991-01-01;90320836
+VINHO DE MESA;vm_Tinto;Tinto;1992-01-01;118638894
+VINHO DE MESA;vm_Tinto;Tinto;1993-01-01;125172218
+VINHO DE MESA;vm_Tinto;Tinto;1994-01-01;161479717
+VINHO DE MESA;vm_Tinto;Tinto;1995-01-01;167174017
+VINHO DE MESA;vm_Tinto;Tinto;1996-01-01;115896909
+VINHO DE MESA;vm_Tinto;Tinto;1997-01-01;116458841
+VINHO DE MESA;vm_Tinto;Tinto;1998-01-01;102127865
+VINHO DE MESA;vm_Tinto;Tinto;1999-01-01;168149414
+VINHO DE MESA;vm_Tinto;Tinto;2000-01-01;208242670
+VINHO DE MESA;vm_Tinto;Tinto;2001-01-01;175267437
+VINHO DE MESA;vm_Tinto;Tinto;2002-01-01;215892333
+VINHO DE MESA;vm_Tinto;Tinto;2003-01-01;155513687
+VINHO DE MESA;vm_Tinto;Tinto;2004-01-01;254172425
+VINHO DE MESA;vm_Tinto;Tinto;2005-01-01;180698666
+VINHO DE MESA;vm_Tinto;Tinto;2006-01-01;149552555
+VINHO DE MESA;vm_Tinto;Tinto;2007-01-01;228156220
+VINHO DE MESA;vm_Tinto;Tinto;2008-01-01;241057928
+VINHO DE MESA;vm_Tinto;Tinto;2009-01-01;164143454
+VINHO DE MESA;vm_Tinto;Tinto;2010-01-01;157290088
+VINHO DE MESA;vm_Tinto;Tinto;2011-01-01;210113358
+VINHO DE MESA;vm_Tinto;Tinto;2012-01-01;175875432
+VINHO DE MESA;vm_Tinto;Tinto;2013-01-01;163111797
+VINHO DE MESA;vm_Tinto;Tinto;2014-01-01;157776363
+VINHO DE MESA;vm_Tinto;Tinto;2015-01-01;169811472
+VINHO DE MESA;vm_Tinto;Tinto;2016-01-01;75279191
+VINHO DE MESA;vm_Tinto;Tinto;2017-01-01;1365957
+VINHO DE MESA;vm_Tinto;Tinto;2018-01-01;188270142
+VINHO DE MESA;vm_Tinto;Tinto;2019-01-01;121045115
+VINHO DE MESA;vm_Tinto;Tinto;2020-01-01;103916391
+VINHO DE MESA;vm_Tinto;Tinto;2021-01-01;146075996
+VINHO DE MESA;vm_Tinto;Tinto;2022-01-01;162844214
+VINHO DE MESA;vm_Tinto;Tinto;2023-01-01;139320884
+VINHO DE MESA;vm_Branco;Branco;1970-01-01;748400
+VINHO DE MESA;vm_Branco;Branco;1971-01-01;1160500
+VINHO DE MESA;vm_Branco;Branco;1972-01-01;1812367
+VINHO DE MESA;vm_Branco;Branco;1973-01-01;243900
+VINHO DE MESA;vm_Branco;Branco;1974-01-01;4138768
+VINHO DE MESA;vm_Branco;Branco;1975-01-01;1441507
+VINHO DE MESA;vm_Branco;Branco;1976-01-01;1871473
+VINHO DE MESA;vm_Branco;Branco;1977-01-01;4954387
+VINHO DE MESA;vm_Branco;Branco;1978-01-01;5079748
+VINHO DE MESA;vm_Branco;Branco;1979-01-01;7146395
+VINHO DE MESA;vm_Branco;Branco;1980-01-01;5363452
+VINHO DE MESA;vm_Branco;Branco;1981-01-01;12547739
+VINHO DE MESA;vm_Branco;Branco;1982-01-01;15782499
+VINHO DE MESA;vm_Branco;Branco;1983-01-01;12191896
+VINHO DE MESA;vm_Branco;Branco;1984-01-01;19502230
+VINHO DE MESA;vm_Branco;Branco;1985-01-01;23010666
+VINHO DE MESA;vm_Branco;Branco;1986-01-01;16872183
+VINHO DE MESA;vm_Branco;Branco;1987-01-01;27497857
+VINHO DE MESA;vm_Branco;Branco;1988-01-01;32660045
+VINHO DE MESA;vm_Branco;Branco;1989-01-01;24603265
+VINHO DE MESA;vm_Branco;Branco;1990-01-01;33512030
+VINHO DE MESA;vm_Branco;Branco;1991-01-01;25046588
+VINHO DE MESA;vm_Branco;Branco;1992-01-01;25446255
+VINHO DE MESA;vm_Branco;Branco;1993-01-01;31986075
+VINHO DE MESA;vm_Branco;Branco;1994-01-01;28291853
+VINHO DE MESA;vm_Branco;Branco;1995-01-01;15472732
+VINHO DE MESA;vm_Branco;Branco;1996-01-01;24073622
+VINHO DE MESA;vm_Branco;Branco;1997-01-01;41842945
+VINHO DE MESA;vm_Branco;Branco;1998-01-01;32140249
+VINHO DE MESA;vm_Branco;Branco;1999-01-01;42528150
+VINHO DE MESA;vm_Branco;Branco;2000-01-01;44902276
+VINHO DE MESA;vm_Branco;Branco;2001-01-01;44322836
+VINHO DE MESA;vm_Branco;Branco;2002-01-01;35329657
+VINHO DE MESA;vm_Branco;Branco;2003-01-01;40861639
+VINHO DE MESA;vm_Branco;Branco;2004-01-01;51719967
+VINHO DE MESA;vm_Branco;Branco;2005-01-01;39212146
+VINHO DE MESA;vm_Branco;Branco;2006-01-01;31738390
+VINHO DE MESA;vm_Branco;Branco;2007-01-01;42118552
+VINHO DE MESA;vm_Branco;Branco;2008-01-01;42942053
+VINHO DE MESA;vm_Branco;Branco;2009-01-01;39211278
+VINHO DE MESA;vm_Branco;Branco;2010-01-01;35408083
+VINHO DE MESA;vm_Branco;Branco;2011-01-01;46007504
+VINHO DE MESA;vm_Branco;Branco;2012-01-01;34938249
+VINHO DE MESA;vm_Branco;Branco;2013-01-01;32066403
+VINHO DE MESA;vm_Branco;Branco;2014-01-01;37438069
+VINHO DE MESA;vm_Branco;Branco;2015-01-01;39557250
+VINHO DE MESA;vm_Branco;Branco;2016-01-01;10727099
+VINHO DE MESA;vm_Branco;Branco;2017-01-01;217527985
+VINHO DE MESA;vm_Branco;Branco;2018-01-01;29229970
+VINHO DE MESA;vm_Branco;Branco;2019-01-01;22032828
+VINHO DE MESA;vm_Branco;Branco;2020-01-01;19568734
+VINHO DE MESA;vm_Branco;Branco;2021-01-01;26432799
+VINHO DE MESA;vm_Branco;Branco;2022-01-01;30198430
+VINHO DE MESA;vm_Branco;Branco;2023-01-01;27910299
+VINHO DE MESA;vm_Rosado;Rosado;1970-01-01;42236152
+VINHO DE MESA;vm_Rosado;Rosado;1971-01-01;31970782
+VINHO DE MESA;vm_Rosado;Rosado;1972-01-01;26960004
+VINHO DE MESA;vm_Rosado;Rosado;1973-01-01;27877426
+VINHO DE MESA;vm_Rosado;Rosado;1974-01-01;43192093
+VINHO DE MESA;vm_Rosado;Rosado;1975-01-01;31685568
+VINHO DE MESA;vm_Rosado;Rosado;1976-01-01;24333795
+VINHO DE MESA;vm_Rosado;Rosado;1977-01-01;35603565
+VINHO DE MESA;vm_Rosado;Rosado;1978-01-01;32056558
+VINHO DE MESA;vm_Rosado;Rosado;1979-01-01;49370148
+VINHO DE MESA;vm_Rosado;Rosado;1980-01-01;23284978
+VINHO DE MESA;vm_Rosado;Rosado;1981-01-01;39425814
+VINHO DE MESA;vm_Rosado;Rosado;1982-01-01;35622605
+VINHO DE MESA;vm_Rosado;Rosado;1983-01-01;20989120
+VINHO DE MESA;vm_Rosado;Rosado;1984-01-01;38563073
+VINHO DE MESA;vm_Rosado;Rosado;1985-01-01;35595899
+VINHO DE MESA;vm_Rosado;Rosado;1986-01-01;22072645
+VINHO DE MESA;vm_Rosado;Rosado;1987-01-01;25128167
+VINHO DE MESA;vm_Rosado;Rosado;1988-01-01;38383071
+VINHO DE MESA;vm_Rosado;Rosado;1989-01-01;20267523
+VINHO DE MESA;vm_Rosado;Rosado;1990-01-01;22676272
+VINHO DE MESA;vm_Rosado;Rosado;1991-01-01;11400830
+VINHO DE MESA;vm_Rosado;Rosado;1992-01-01;19163270
+VINHO DE MESA;vm_Rosado;Rosado;1993-01-01;14596702
+VINHO DE MESA;vm_Rosado;Rosado;1994-01-01;12301693
+VINHO DE MESA;vm_Rosado;Rosado;1995-01-01;32141555
+VINHO DE MESA;vm_Rosado;Rosado;1996-01-01;12947240
+VINHO DE MESA;vm_Rosado;Rosado;1997-01-01;24514261
+VINHO DE MESA;vm_Rosado;Rosado;1998-01-01;16546829
+VINHO DE MESA;vm_Rosado;Rosado;1999-01-01;15843212
+VINHO DE MESA;vm_Rosado;Rosado;2000-01-01;19880630
+VINHO DE MESA;vm_Rosado;Rosado;2001-01-01;9342185
+VINHO DE MESA;vm_Rosado;Rosado;2002-01-01;8367750
+VINHO DE MESA;vm_Rosado;Rosado;2003-01-01;6170398
+VINHO DE MESA;vm_Rosado;Rosado;2004-01-01;8069892
+VINHO DE MESA;vm_Rosado;Rosado;2005-01-01;6169620
+VINHO DE MESA;vm_Rosado;Rosado;2006-01-01;3809942
+VINHO DE MESA;vm_Rosado;Rosado;2007-01-01;5013136
+VINHO DE MESA;vm_Rosado;Rosado;2008-01-01;3506830
+VINHO DE MESA;vm_Rosado;Rosado;2009-01-01;2063474
+VINHO DE MESA;vm_Rosado;Rosado;2010-01-01;2569809
+VINHO DE MESA;vm_Rosado;Rosado;2011-01-01;1719887
+VINHO DE MESA;vm_Rosado;Rosado;2012-01-01;1963356
+VINHO DE MESA;vm_Rosado;Rosado;2013-01-01;1726022
+VINHO DE MESA;vm_Rosado;Rosado;2014-01-01;958691
+VINHO DE MESA;vm_Rosado;Rosado;2015-01-01;939838
+VINHO DE MESA;vm_Rosado;Rosado;2016-01-01;312725
+VINHO DE MESA;vm_Rosado;Rosado;2017-01-01;36121245
+VINHO DE MESA;vm_Rosado;Rosado;2018-01-01;875524
+VINHO DE MESA;vm_Rosado;Rosado;2019-01-01;1551794
+VINHO DE MESA;vm_Rosado;Rosado;2020-01-01;715289
+VINHO DE MESA;vm_Rosado;Rosado;2021-01-01;1391200
+VINHO DE MESA;vm_Rosado;Rosado;2022-01-01;1988968
+VINHO DE MESA;vm_Rosado;Rosado;2023-01-01;2531246
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1970-01-01;7591557
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1971-01-01;7265666
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1972-01-01;6782837
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1973-01-01;3419625
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1974-01-01;10047658
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1975-01-01;14731106
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1976-01-01;12405154
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1977-01-01;16131758
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1978-01-01;15000671
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1979-01-01;14356453
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1980-01-01;9296741
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1981-01-01;16036963
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1982-01-01;19987588
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1983-01-01;14340514
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1984-01-01;15777602
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1985-01-01;19347979
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1986-01-01;12282967
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1987-01-01;10920073
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1988-01-01;18690518
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1989-01-01;16140751
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1990-01-01;17750504
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1991-01-01;12001895
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1992-01-01;13449911
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1993-01-01;12119485
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1994-01-01;15646861
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1995-01-01;11924291
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1996-01-01;12819866
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1997-01-01;12590647
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1998-01-01;8716140
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;1999-01-01;14640657
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2000-01-01;18545613
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2001-01-01;13587683
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2002-01-01;13619033
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2003-01-01;15357576
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2004-01-01;23062182
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2005-01-01;25409805
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2006-01-01;18868108
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2007-01-01;24786071
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2008-01-01;27583032
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2009-01-01;18209043
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2010-01-01;11401406
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2011-01-01;24104740
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2012-01-01;24027589
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2013-01-01;23156458
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2014-01-01;17208996
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2015-01-01;16745896
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2016-01-01;8774847
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2017-01-01;21442212
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2018-01-01;19118254
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2019-01-01;17389377
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2020-01-01;15451883
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2021-01-01;20433249
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2022-01-01;24417918
+VINHO FINO DE MESA (VINÍFERA);vv_Tinto;Tinto;2023-01-01;23615783
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1970-01-01;15562889
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1971-01-01;15655709
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1972-01-01;13289304
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1973-01-01;7930070
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1974-01-01;18927471
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1975-01-01;21933695
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1976-01-01;19874659
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1977-01-01;20409231
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1978-01-01;17640081
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1979-01-01;25727132
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1980-01-01;19326572
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1981-01-01;27528276
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1982-01-01;34423412
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1983-01-01;24164361
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1984-01-01;30395959
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1985-01-01;44679484
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1986-01-01;34794145
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1987-01-01;35432544
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1988-01-01;56441847
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1989-01-01;54983093
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1990-01-01;52080420
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1991-01-01;33307472
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1992-01-01;38856367
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1993-01-01;40415898
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1994-01-01;42419680
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1995-01-01;34209738
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1996-01-01;31893892
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1997-01-01;33792167
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1998-01-01;24384090
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;1999-01-01;30674840
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2000-01-01;36955126
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2001-01-01;20393594
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2002-01-01;17911689
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2003-01-01;14058481
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2004-01-01;19803647
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2005-01-01;20012363
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2006-01-01;13249969
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2007-01-01;17598428
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2008-01-01;18812571
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2009-01-01;21366975
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2010-01-01;13013027
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2011-01-01;22739426
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2012-01-01;20647238
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2013-01-01;21906349
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2014-01-01;20054804
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2015-01-01;19561966
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2016-01-01;8705066
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2017-01-01;21928400
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2018-01-01;18297257
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2019-01-01;18193055
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2020-01-01;15487915
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2021-01-01;20867999
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2022-01-01;20896613
+VINHO FINO DE MESA (VINÍFERA);vv_Branco;Branco;2023-01-01;20693437
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1970-01-01;744900
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1971-01-01;664687
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1972-01-01;1006630
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1973-01-01;1018715
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1974-01-01;2668995
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1975-01-01;2759789
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1976-01-01;2220777
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1977-01-01;4723982
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1978-01-01;4110181
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1979-01-01;6046125
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1980-01-01;3117350
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1981-01-01;5782808
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1982-01-01;3042581
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1983-01-01;2111937
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1984-01-01;2115718
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1985-01-01;3007930
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1986-01-01;1482068
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1987-01-01;948649
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1988-01-01;1428400
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1989-01-01;1648300
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1990-01-01;3858200
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1991-01-01;209800
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1992-01-01;306500
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1993-01-01;518842
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1994-01-01;667200
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1995-01-01;992200
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1996-01-01;611300
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1997-01-01;605600
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1998-01-01;798400
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;1999-01-01;515000
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2000-01-01;709000
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2001-01-01;178000
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2002-01-01;124504
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2003-01-01;135400
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2004-01-01;36779
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2005-01-01;31730
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2006-01-01;50900
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2007-01-01;791985
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2008-01-01;938898
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2009-01-01;324550
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2010-01-01;391280
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2011-01-01;754305
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2012-01-01;525903
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2013-01-01;719723
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2014-01-01;1200514
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2015-01-01;841120
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2016-01-01;590713
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2017-01-01;1167258
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2018-01-01;1291709
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2019-01-01;2032990
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2020-01-01;1576888
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2021-01-01;2173750
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2022-01-01;2197265
+VINHO FINO DE MESA (VINÍFERA);vv_Rosado;Rosado;2023-01-01;1959336
+SUCO;su_Suco de uva simples;Suco de uva integral;1970-01-01;1097771
+SUCO;su_Suco de uva simples;Suco de uva integral;1971-01-01;2296654
+SUCO;su_Suco de uva simples;Suco de uva integral;1972-01-01;3509440
+SUCO;su_Suco de uva simples;Suco de uva integral;1973-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1974-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1975-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1976-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1977-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1978-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1979-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1980-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1981-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1982-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1983-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1984-01-01;0
+SUCO;su_Suco de uva simples;Suco de uva integral;1985-01-01;3544706
+SUCO;su_Suco de uva simples;Suco de uva integral;1986-01-01;2116507
+SUCO;su_Suco de uva simples;Suco de uva integral;1987-01-01;2262240
+SUCO;su_Suco de uva simples;Suco de uva integral;1988-01-01;2018000
+SUCO;su_Suco de uva simples;Suco de uva integral;1989-01-01;2824600
+SUCO;su_Suco de uva simples;Suco de uva integral;1990-01-01;2848560
+SUCO;su_Suco de uva simples;Suco de uva integral;1991-01-01;3609000
+SUCO;su_Suco de uva simples;Suco de uva integral;1992-01-01;4033698
+SUCO;su_Suco de uva simples;Suco de uva integral;1993-01-01;3800800
+SUCO;su_Suco de uva simples;Suco de uva integral;1994-01-01;3884000
+SUCO;su_Suco de uva simples;Suco de uva integral;1995-01-01;4123776
+SUCO;su_Suco de uva simples;Suco de uva integral;1996-01-01;2407900
+SUCO;su_Suco de uva simples;Suco de uva integral;1997-01-01;2884969
+SUCO;su_Suco de uva simples;Suco de uva integral;1998-01-01;3904186
+SUCO;su_Suco de uva simples;Suco de uva integral;1999-01-01;4132303
+SUCO;su_Suco de uva simples;Suco de uva integral;2000-01-01;3546779
+SUCO;su_Suco de uva simples;Suco de uva integral;2001-01-01;5196430
+SUCO;su_Suco de uva simples;Suco de uva integral;2002-01-01;5505889
+SUCO;su_Suco de uva simples;Suco de uva integral;2003-01-01;1372381
+SUCO;su_Suco de uva simples;Suco de uva integral;2004-01-01;6222380
+SUCO;su_Suco de uva simples;Suco de uva integral;2005-01-01;7103175
+SUCO;su_Suco de uva simples;Suco de uva integral;2006-01-01;13946491
+SUCO;su_Suco de uva simples;Suco de uva integral;2007-01-01;10147037
+SUCO;su_Suco de uva simples;Suco de uva integral;2008-01-01;11817941
+SUCO;su_Suco de uva simples;Suco de uva integral;2009-01-01;16034003
+SUCO;su_Suco de uva simples;Suco de uva integral;2010-01-01;26887259
+SUCO;su_Suco de uva simples;Suco de uva integral;2011-01-01;39487800
+SUCO;su_Suco de uva simples;Suco de uva integral;2012-01-01;31908829
+SUCO;su_Suco de uva simples;Suco de uva integral;2013-01-01;33673396
+SUCO;su_Suco de uva simples;Suco de uva integral;2014-01-01;43331223
+SUCO;su_Suco de uva simples;Suco de uva integral;2015-01-01;52233155
+SUCO;su_Suco de uva simples;Suco de uva integral;2016-01-01;31117869
+SUCO;su_Suco de uva simples;Suco de uva integral;2017-01-01;46865626
+SUCO;su_Suco de uva simples;Suco de uva integral;2018-01-01;34367996
+SUCO;su_Suco de uva simples;Suco de uva integral;2019-01-01;50239767
+SUCO;su_Suco de uva simples;Suco de uva integral;2020-01-01;40718523
+SUCO;su_Suco de uva simples;Suco de uva integral;2021-01-01;68038479
+SUCO;su_Suco de uva simples;Suco de uva integral;2022-01-01;35248305
+SUCO;su_Suco de uva simples;Suco de uva integral;2023-01-01;38122173
+SUCO;su_Suco concentrado;Suco de uva concentrado;1970-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1971-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1972-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1973-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1974-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1975-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1976-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1977-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1978-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1979-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1980-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1981-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1982-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1983-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1984-01-01;0
+SUCO;su_Suco concentrado;Suco de uva concentrado;1985-01-01;3086961
+SUCO;su_Suco concentrado;Suco de uva concentrado;1986-01-01;2197261
+SUCO;su_Suco concentrado;Suco de uva concentrado;1987-01-01;3206776
+SUCO;su_Suco concentrado;Suco de uva concentrado;1988-01-01;5568870
+SUCO;su_Suco concentrado;Suco de uva concentrado;1989-01-01;4098583
+SUCO;su_Suco concentrado;Suco de uva concentrado;1990-01-01;7574692
+SUCO;su_Suco concentrado;Suco de uva concentrado;1991-01-01;7715462
+SUCO;su_Suco concentrado;Suco de uva concentrado;1992-01-01;6763926
+SUCO;su_Suco concentrado;Suco de uva concentrado;1993-01-01;8230953
+SUCO;su_Suco concentrado;Suco de uva concentrado;1994-01-01;9459721
+SUCO;su_Suco concentrado;Suco de uva concentrado;1995-01-01;8770183
+SUCO;su_Suco concentrado;Suco de uva concentrado;1996-01-01;6782000
+SUCO;su_Suco concentrado;Suco de uva concentrado;1997-01-01;10524045
+SUCO;su_Suco concentrado;Suco de uva concentrado;1998-01-01;10000000
+SUCO;su_Suco concentrado;Suco de uva concentrado;1999-01-01;11400000
+SUCO;su_Suco concentrado;Suco de uva concentrado;2000-01-01;14176000
+SUCO;su_Suco concentrado;Suco de uva concentrado;2001-01-01;12790752
+SUCO;su_Suco concentrado;Suco de uva concentrado;2002-01-01;14722802
+SUCO;su_Suco concentrado;Suco de uva concentrado;2003-01-01;11048364
+SUCO;su_Suco concentrado;Suco de uva concentrado;2004-01-01;17855732
+SUCO;su_Suco concentrado;Suco de uva concentrado;2005-01-01;19513244
+SUCO;su_Suco concentrado;Suco de uva concentrado;2006-01-01;17414605
+SUCO;su_Suco concentrado;Suco de uva concentrado;2007-01-01;19280709
+SUCO;su_Suco concentrado;Suco de uva concentrado;2008-01-01;23014646
+SUCO;su_Suco concentrado;Suco de uva concentrado;2009-01-01;23006457
+SUCO;su_Suco concentrado;Suco de uva concentrado;2010-01-01;23238685
+SUCO;su_Suco concentrado;Suco de uva concentrado;2011-01-01;29564324
+SUCO;su_Suco concentrado;Suco de uva concentrado;2012-01-01;37624855
+SUCO;su_Suco concentrado;Suco de uva concentrado;2013-01-01;31206394
+SUCO;su_Suco concentrado;Suco de uva concentrado;2014-01-01;33392314
+SUCO;su_Suco concentrado;Suco de uva concentrado;2015-01-01;35661313
+SUCO;su_Suco concentrado;Suco de uva concentrado;2016-01-01;11092520
+SUCO;su_Suco concentrado;Suco de uva concentrado;2017-01-01;30059271
+SUCO;su_Suco concentrado;Suco de uva concentrado;2018-01-01;31099910
+SUCO;su_Suco concentrado;Suco de uva concentrado;2019-01-01;26861009
+SUCO;su_Suco concentrado;Suco de uva concentrado;2020-01-01;27963865
+SUCO;su_Suco concentrado;Suco de uva concentrado;2021-01-01;32131218
+SUCO;su_Suco concentrado;Suco de uva concentrado;2022-01-01;29892550
+SUCO;su_Suco concentrado;Suco de uva concentrado;2023-01-01;28216760
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1970-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1971-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1972-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1973-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1974-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1975-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1976-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1977-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1978-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1979-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1980-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1981-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1982-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1983-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1984-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1985-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1986-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1987-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1988-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1989-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1990-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1991-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1992-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1993-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1994-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1995-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1996-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1997-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1998-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;1999-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2000-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2001-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2002-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2003-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2004-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2005-01-01;1344177
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2006-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2007-01-01;709098
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2008-01-01;815407
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2009-01-01;674638
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2010-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2011-01-01;312200
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2012-01-01;533048
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2013-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2014-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2015-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2016-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2017-01-01;177774
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2018-01-01;0
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2019-01-01;120320
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2020-01-01;107289
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2021-01-01;40450
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2022-01-01;79130
+SUCO;su_Suco de uva adoçado;Suco de uva adoçado;2023-01-01;94587
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1970-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1971-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1972-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1973-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1974-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1975-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1976-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1977-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1978-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1979-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1980-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1981-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1982-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1983-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1984-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1985-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1986-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1987-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1988-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1989-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1990-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1991-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1992-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1993-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1994-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1995-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1996-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1997-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1998-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;1999-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2000-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2001-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2002-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2003-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2004-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2005-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2006-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2007-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2008-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2009-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2010-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2011-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2012-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2013-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2014-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2015-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2016-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2017-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2018-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2019-01-01;0
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2020-01-01;471610
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2021-01-01;722117
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2022-01-01;589094
+SUCO;su_Suco de uva orgânico;Suco de uva orgânico;2023-01-01;611718
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1970-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1971-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1972-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1973-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1974-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1975-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1976-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1977-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1978-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1979-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1980-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1981-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1982-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1983-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1984-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1985-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1986-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1987-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1988-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1989-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1990-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1991-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1992-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1993-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1994-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1995-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1996-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1997-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1998-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;1999-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2000-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2001-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2002-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2003-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2004-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2005-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2006-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2007-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2008-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2009-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2010-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2011-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2012-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2013-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2014-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2015-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2016-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2017-01-01;59300
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2018-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2019-01-01;584256
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2020-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2021-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2022-01-01;0
+SUCO;su_Suco de uva reconstituído;Suco de uva reconstituído;2023-01-01;0
+DERIVADOS;de_Espumante;Espumante;1970-01-01;0
+DERIVADOS;de_Espumante;Espumante;1971-01-01;0
+DERIVADOS;de_Espumante;Espumante;1972-01-01;0
+DERIVADOS;de_Espumante;Espumante;1973-01-01;0
+DERIVADOS;de_Espumante;Espumante;1974-01-01;0
+DERIVADOS;de_Espumante;Espumante;1975-01-01;0
+DERIVADOS;de_Espumante;Espumante;1976-01-01;0
+DERIVADOS;de_Espumante;Espumante;1977-01-01;0
+DERIVADOS;de_Espumante;Espumante;1978-01-01;0
+DERIVADOS;de_Espumante;Espumante;1979-01-01;0
+DERIVADOS;de_Espumante;Espumante;1980-01-01;0
+DERIVADOS;de_Espumante;Espumante;1981-01-01;0
+DERIVADOS;de_Espumante;Espumante;1982-01-01;0
+DERIVADOS;de_Espumante;Espumante;1983-01-01;0
+DERIVADOS;de_Espumante;Espumante;1984-01-01;0
+DERIVADOS;de_Espumante;Espumante;1985-01-01;0
+DERIVADOS;de_Espumante;Espumante;1986-01-01;0
+DERIVADOS;de_Espumante;Espumante;1987-01-01;0
+DERIVADOS;de_Espumante;Espumante;1988-01-01;76000
+DERIVADOS;de_Espumante;Espumante;1989-01-01;0
+DERIVADOS;de_Espumante;Espumante;1990-01-01;0
+DERIVADOS;de_Espumante;Espumante;1991-01-01;0
+DERIVADOS;de_Espumante;Espumante;1992-01-01;11000
+DERIVADOS;de_Espumante;Espumante;1993-01-01;0
+DERIVADOS;de_Espumante;Espumante;1994-01-01;0
+DERIVADOS;de_Espumante;Espumante;1995-01-01;0
+DERIVADOS;de_Espumante;Espumante;1996-01-01;0
+DERIVADOS;de_Espumante;Espumante;1997-01-01;0
+DERIVADOS;de_Espumante;Espumante;1998-01-01;0
+DERIVADOS;de_Espumante;Espumante;1999-01-01;6900
+DERIVADOS;de_Espumante;Espumante;2000-01-01;71410
+DERIVADOS;de_Espumante;Espumante;2001-01-01;0
+DERIVADOS;de_Espumante;Espumante;2002-01-01;0
+DERIVADOS;de_Espumante;Espumante;2003-01-01;0
+DERIVADOS;de_Espumante;Espumante;2004-01-01;3999
+DERIVADOS;de_Espumante;Espumante;2005-01-01;1920
+DERIVADOS;de_Espumante;Espumante;2006-01-01;26600
+DERIVADOS;de_Espumante;Espumante;2007-01-01;0
+DERIVADOS;de_Espumante;Espumante;2008-01-01;88690
+DERIVADOS;de_Espumante;Espumante;2009-01-01;0
+DERIVADOS;de_Espumante;Espumante;2010-01-01;10125
+DERIVADOS;de_Espumante;Espumante;2011-01-01;26361
+DERIVADOS;de_Espumante;Espumante;2012-01-01;17200
+DERIVADOS;de_Espumante;Espumante;2013-01-01;30275
+DERIVADOS;de_Espumante;Espumante;2014-01-01;2700
+DERIVADOS;de_Espumante;Espumante;2015-01-01;23750
+DERIVADOS;de_Espumante;Espumante;2016-01-01;1500
+DERIVADOS;de_Espumante;Espumante;2017-01-01;11280
+DERIVADOS;de_Espumante;Espumante;2018-01-01;68500
+DERIVADOS;de_Espumante;Espumante;2019-01-01;52176
+DERIVADOS;de_Espumante;Espumante;2020-01-01;32399
+DERIVADOS;de_Espumante;Espumante;2021-01-01;70091
+DERIVADOS;de_Espumante;Espumante;2022-01-01;70759
+DERIVADOS;de_Espumante;Espumante;2023-01-01;65525
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1970-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1971-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1972-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1973-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1974-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1975-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1976-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1977-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1978-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1979-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1980-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1981-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1982-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1983-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1984-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1985-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1986-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1987-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1988-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1989-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1990-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1991-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1992-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1993-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1994-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1995-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1996-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1997-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1998-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;1999-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2000-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2001-01-01;276099
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2002-01-01;0
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2003-01-01;147600
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2004-01-01;204000
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2005-01-01;514480
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2006-01-01;320514
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2007-01-01;589332
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2008-01-01;1113462
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2009-01-01;1190500
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2010-01-01;703393
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2011-01-01;219100
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2012-01-01;139775
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2013-01-01;159781
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2014-01-01;100000
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2015-01-01;110100
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2016-01-01;100000
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2017-01-01;152375
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2018-01-01;326200
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2019-01-01;515800
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2020-01-01;689139
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2021-01-01;11950
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2022-01-01;27200
+DERIVADOS;de_Espumante moscatel;Espumante moscatel;2023-01-01;14744
+DERIVADOS;de_Base espumante;Base espumante;1970-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1971-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1972-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1973-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1974-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1975-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1976-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1977-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1978-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1979-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1980-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1981-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1982-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1983-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1984-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1985-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1986-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1987-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1988-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1989-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1990-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1991-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1992-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1993-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1994-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1995-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1996-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1997-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1998-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;1999-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2000-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2001-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2002-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2003-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2004-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2005-01-01;239000
+DERIVADOS;de_Base espumante;Base espumante;2006-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2007-01-01;78250
+DERIVADOS;de_Base espumante;Base espumante;2008-01-01;220120
+DERIVADOS;de_Base espumante;Base espumante;2009-01-01;335850
+DERIVADOS;de_Base espumante;Base espumante;2010-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2011-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2012-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2013-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2014-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2015-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2016-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2017-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2018-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2019-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2020-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2021-01-01;5475049
+DERIVADOS;de_Base espumante;Base espumante;2022-01-01;0
+DERIVADOS;de_Base espumante;Base espumante;2023-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1970-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1971-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1972-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1973-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1974-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1975-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1976-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1977-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1978-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1979-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1980-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1981-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1982-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1983-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1984-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1985-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1986-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1987-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1988-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1989-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1990-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1991-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1992-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1993-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1994-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1995-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1996-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1997-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1998-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;1999-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2000-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2001-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2002-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2003-01-01;0
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2004-01-01;98900
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2005-01-01;212400
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2006-01-01;362589
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2007-01-01;111200
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2008-01-01;474721
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2009-01-01;442150
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2010-01-01;1144508
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2011-01-01;2749540
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2012-01-01;2798908
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2013-01-01;1470700
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2014-01-01;1808044
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2015-01-01;1607727
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2016-01-01;1325700
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2017-01-01;1965629
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2018-01-01;1320650
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2019-01-01;1962443
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2020-01-01;3006705
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2021-01-01;5549471
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2022-01-01;6308043
+DERIVADOS;de_Base espumante moscatel;Base espumante moscatel;2023-01-01;6734590
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1970-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1971-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1972-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1973-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1974-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1975-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1976-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1977-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1978-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1979-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1980-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1981-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1982-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1983-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1984-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1985-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1986-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1987-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1988-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1989-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1990-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1991-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1992-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1993-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1994-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1995-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1996-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1997-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1998-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;1999-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2000-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2001-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2002-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2003-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2004-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2005-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2006-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2007-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2008-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2009-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2010-01-01;92082
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2011-01-01;74746
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2012-01-01;369278
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2013-01-01;359617
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2014-01-01;234725
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2015-01-01;605001
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2016-01-01;740395
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2017-01-01;1552403
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2018-01-01;228518
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2019-01-01;274903
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2020-01-01;200777
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2021-01-01;0
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2022-01-01;1146717
+DERIVADOS;de_Base Champenoise champanha;Base Champenoise champanha;2023-01-01;1552243
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1970-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1971-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1972-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1973-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1974-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1975-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1976-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1977-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1978-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1979-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1980-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1981-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1982-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1983-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1984-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1985-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1986-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1987-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1988-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1989-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1990-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1991-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1992-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1993-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1994-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1995-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1996-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1997-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1998-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;1999-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2000-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2001-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2002-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2003-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2004-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2005-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2006-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2007-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2008-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2009-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2010-01-01;254000
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2011-01-01;865858
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2012-01-01;479625
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2013-01-01;624728
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2014-01-01;376968
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2015-01-01;1466259
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2016-01-01;250280
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2017-01-01;893364
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2018-01-01;1746540
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2019-01-01;1188095
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2020-01-01;2487939
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2021-01-01;0
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2022-01-01;4078766
+DERIVADOS;de_Base Charmat champanha;Base Charmat champanha;2023-01-01;5418118
+DERIVADOS;de_Bebida de uva;Bebida de uva;1970-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1971-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1972-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1973-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1974-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1975-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1976-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1977-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1978-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1979-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1980-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1981-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1982-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1983-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1984-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1985-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1986-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1987-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1988-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1989-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1990-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1991-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1992-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1993-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1994-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1995-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1996-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1997-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1998-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;1999-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2000-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2001-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2002-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2003-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2004-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2005-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2006-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2007-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2008-01-01;1082700
+DERIVADOS;de_Bebida de uva;Bebida de uva;2009-01-01;420
+DERIVADOS;de_Bebida de uva;Bebida de uva;2010-01-01;7900
+DERIVADOS;de_Bebida de uva;Bebida de uva;2011-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2012-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2013-01-01;4260
+DERIVADOS;de_Bebida de uva;Bebida de uva;2014-01-01;3860
+DERIVADOS;de_Bebida de uva;Bebida de uva;2015-01-01;922
+DERIVADOS;de_Bebida de uva;Bebida de uva;2016-01-01;3474
+DERIVADOS;de_Bebida de uva;Bebida de uva;2017-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2018-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2019-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2020-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2021-01-01;2000
+DERIVADOS;de_Bebida de uva;Bebida de uva;2022-01-01;0
+DERIVADOS;de_Bebida de uva;Bebida de uva;2023-01-01;1627
+DERIVADOS;de_Polpa de uva;Polpa de uva;1970-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1971-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1972-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1973-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1974-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1975-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1976-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1977-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1978-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1979-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1980-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1981-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1982-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1983-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1984-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1985-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1986-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1987-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1988-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1989-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1990-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1991-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1992-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1993-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1994-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1995-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1996-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1997-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1998-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;1999-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;2000-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;2001-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;2002-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;2003-01-01;0
+DERIVADOS;de_Polpa de uva;Polpa de uva;2004-01-01;890562
+DERIVADOS;de_Polpa de uva;Polpa de uva;2005-01-01;1350672
+DERIVADOS;de_Polpa de uva;Polpa de uva;2006-01-01;1006000
+DERIVADOS;de_Polpa de uva;Polpa de uva;2007-01-01;1083202
+DERIVADOS;de_Polpa de uva;Polpa de uva;2008-01-01;1188260
+DERIVADOS;de_Polpa de uva;Polpa de uva;2009-01-01;1352417
+DERIVADOS;de_Polpa de uva;Polpa de uva;2010-01-01;1951606
+DERIVADOS;de_Polpa de uva;Polpa de uva;2011-01-01;2480120
+DERIVADOS;de_Polpa de uva;Polpa de uva;2012-01-01;2797665
+DERIVADOS;de_Polpa de uva;Polpa de uva;2013-01-01;1742152
+DERIVADOS;de_Polpa de uva;Polpa de uva;2014-01-01;2484000
+DERIVADOS;de_Polpa de uva;Polpa de uva;2015-01-01;2371140
+DERIVADOS;de_Polpa de uva;Polpa de uva;2016-01-01;1620430
+DERIVADOS;de_Polpa de uva;Polpa de uva;2017-01-01;2507125
+DERIVADOS;de_Polpa de uva;Polpa de uva;2018-01-01;2112683
+DERIVADOS;de_Polpa de uva;Polpa de uva;2019-01-01;1480269
+DERIVADOS;de_Polpa de uva;Polpa de uva;2020-01-01;1803472
+DERIVADOS;de_Polpa de uva;Polpa de uva;2021-01-01;1180578
+DERIVADOS;de_Polpa de uva;Polpa de uva;2022-01-01;387886
+DERIVADOS;de_Polpa de uva;Polpa de uva;2023-01-01;1388251
+DERIVADOS;de_Mosto simples;Mosto simples;1970-01-01;7170736
+DERIVADOS;de_Mosto simples;Mosto simples;1971-01-01;7646774
+DERIVADOS;de_Mosto simples;Mosto simples;1972-01-01;6051822
+DERIVADOS;de_Mosto simples;Mosto simples;1973-01-01;21779327
+DERIVADOS;de_Mosto simples;Mosto simples;1974-01-01;41346735
+DERIVADOS;de_Mosto simples;Mosto simples;1975-01-01;48185206
+DERIVADOS;de_Mosto simples;Mosto simples;1976-01-01;18220527
+DERIVADOS;de_Mosto simples;Mosto simples;1977-01-01;22097156
+DERIVADOS;de_Mosto simples;Mosto simples;1978-01-01;40052456
+DERIVADOS;de_Mosto simples;Mosto simples;1979-01-01;34318456
+DERIVADOS;de_Mosto simples;Mosto simples;1980-01-01;37553414
+DERIVADOS;de_Mosto simples;Mosto simples;1981-01-01;48762185
+DERIVADOS;de_Mosto simples;Mosto simples;1982-01-01;37506770
+DERIVADOS;de_Mosto simples;Mosto simples;1983-01-01;27314628
+DERIVADOS;de_Mosto simples;Mosto simples;1984-01-01;17331744
+DERIVADOS;de_Mosto simples;Mosto simples;1985-01-01;10637557
+DERIVADOS;de_Mosto simples;Mosto simples;1986-01-01;7031320
+DERIVADOS;de_Mosto simples;Mosto simples;1987-01-01;7821040
+DERIVADOS;de_Mosto simples;Mosto simples;1988-01-01;16544460
+DERIVADOS;de_Mosto simples;Mosto simples;1989-01-01;8141100
+DERIVADOS;de_Mosto simples;Mosto simples;1990-01-01;13307690
+DERIVADOS;de_Mosto simples;Mosto simples;1991-01-01;17407568
+DERIVADOS;de_Mosto simples;Mosto simples;1992-01-01;27491540
+DERIVADOS;de_Mosto simples;Mosto simples;1993-01-01;17218000
+DERIVADOS;de_Mosto simples;Mosto simples;1994-01-01;10972700
+DERIVADOS;de_Mosto simples;Mosto simples;1995-01-01;20917600
+DERIVADOS;de_Mosto simples;Mosto simples;1996-01-01;12111372
+DERIVADOS;de_Mosto simples;Mosto simples;1997-01-01;19066000
+DERIVADOS;de_Mosto simples;Mosto simples;1998-01-01;11046570
+DERIVADOS;de_Mosto simples;Mosto simples;1999-01-01;14359734
+DERIVADOS;de_Mosto simples;Mosto simples;2000-01-01;16192018
+DERIVADOS;de_Mosto simples;Mosto simples;2001-01-01;6977231
+DERIVADOS;de_Mosto simples;Mosto simples;2002-01-01;12875000
+DERIVADOS;de_Mosto simples;Mosto simples;2003-01-01;13172480
+DERIVADOS;de_Mosto simples;Mosto simples;2004-01-01;26067525
+DERIVADOS;de_Mosto simples;Mosto simples;2005-01-01;22429791
+DERIVADOS;de_Mosto simples;Mosto simples;2006-01-01;25903812
+DERIVADOS;de_Mosto simples;Mosto simples;2007-01-01;37558010
+DERIVADOS;de_Mosto simples;Mosto simples;2008-01-01;53683415
+DERIVADOS;de_Mosto simples;Mosto simples;2009-01-01;53418555
+DERIVADOS;de_Mosto simples;Mosto simples;2010-01-01;45912040
+DERIVADOS;de_Mosto simples;Mosto simples;2011-01-01;77285998
+DERIVADOS;de_Mosto simples;Mosto simples;2012-01-01;93341575
+DERIVADOS;de_Mosto simples;Mosto simples;2013-01-01;58517506
+DERIVADOS;de_Mosto simples;Mosto simples;2014-01-01;57582195
+DERIVADOS;de_Mosto simples;Mosto simples;2015-01-01;100911592
+DERIVADOS;de_Mosto simples;Mosto simples;2016-01-01;49770993
+DERIVADOS;de_Mosto simples;Mosto simples;2017-01-01;101010116
+DERIVADOS;de_Mosto simples;Mosto simples;2018-01-01;88910980
+DERIVADOS;de_Mosto simples;Mosto simples;2019-01-01;135614344
+DERIVADOS;de_Mosto simples;Mosto simples;2020-01-01;80355474
+DERIVADOS;de_Mosto simples;Mosto simples;2021-01-01;153579926
+DERIVADOS;de_Mosto simples;Mosto simples;2022-01-01;126048241
+DERIVADOS;de_Mosto simples;Mosto simples;2023-01-01;157848983
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1970-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1971-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1972-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1973-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1974-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1975-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1976-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1977-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1978-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1979-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1980-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1981-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1982-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1983-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1984-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1985-01-01;354707
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1986-01-01;295800
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1987-01-01;400500
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1988-01-01;384200
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1989-01-01;732470
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1990-01-01;1098250
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1991-01-01;921400
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1992-01-01;288900
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1993-01-01;355100
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1994-01-01;335500
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1995-01-01;265000
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1996-01-01;292000
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1997-01-01;490000
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1998-01-01;381000
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;1999-01-01;411354
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2000-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2001-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2002-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2003-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2004-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2005-01-01;83116
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2006-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2007-01-01;110000
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2008-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2009-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2010-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2011-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2012-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2013-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2014-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2015-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2016-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2017-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2018-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2019-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2020-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2021-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2022-01-01;0
+DERIVADOS;de_Mosto concentrado;Mosto concentrado;2023-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1970-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1971-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1972-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1973-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1974-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1975-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1976-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1977-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1978-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1979-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1980-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1981-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1982-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1983-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1984-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1985-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1986-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1987-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1988-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1989-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1990-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1991-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1992-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1993-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1994-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1995-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1996-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1997-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1998-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;1999-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2000-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2001-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2002-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2003-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2004-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2005-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2006-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2007-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2008-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2009-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2010-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2011-01-01;1037600
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2012-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2013-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2014-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2015-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2016-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2017-01-01;772110
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2018-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2019-01-01;645816
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2020-01-01;3078256
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2021-01-01;618764
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2022-01-01;0
+DERIVADOS;de_Mosto de uva com bagaço;Mosto de uva com bagaço;2023-01-01;7784
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1970-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1971-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1972-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1973-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1974-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1975-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1976-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1977-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1978-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1979-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1980-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1981-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1982-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1983-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1984-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1985-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1986-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1987-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1988-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1989-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1990-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1991-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1992-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1993-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1994-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1995-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1996-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1997-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1998-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;1999-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2000-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2001-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2002-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2003-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2004-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2005-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2006-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2007-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2008-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2009-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2010-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2011-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2012-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2013-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2014-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2015-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2016-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2017-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2018-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2019-01-01;1000
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2020-01-01;5000
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2021-01-01;1532000
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2022-01-01;0
+DERIVADOS;de_Mosto dessulfitado;Mosto dessulfitado;2023-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1970-01-01;1072100
+DERIVADOS;de_Mistelas;Mistelas;1971-01-01;818400
+DERIVADOS;de_Mistelas;Mistelas;1972-01-01;871200
+DERIVADOS;de_Mistelas;Mistelas;1973-01-01;512900
+DERIVADOS;de_Mistelas;Mistelas;1974-01-01;826300
+DERIVADOS;de_Mistelas;Mistelas;1975-01-01;223000
+DERIVADOS;de_Mistelas;Mistelas;1976-01-01;205500
+DERIVADOS;de_Mistelas;Mistelas;1977-01-01;553200
+DERIVADOS;de_Mistelas;Mistelas;1978-01-01;242150
+DERIVADOS;de_Mistelas;Mistelas;1979-01-01;60300
+DERIVADOS;de_Mistelas;Mistelas;1980-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1981-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1982-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1983-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1984-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1985-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1986-01-01;378400
+DERIVADOS;de_Mistelas;Mistelas;1987-01-01;402600
+DERIVADOS;de_Mistelas;Mistelas;1988-01-01;196000
+DERIVADOS;de_Mistelas;Mistelas;1989-01-01;32000
+DERIVADOS;de_Mistelas;Mistelas;1990-01-01;149000
+DERIVADOS;de_Mistelas;Mistelas;1991-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1992-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1993-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1994-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1995-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1996-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1997-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1998-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;1999-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;2000-01-01;33000
+DERIVADOS;de_Mistelas;Mistelas;2001-01-01;15000
+DERIVADOS;de_Mistelas;Mistelas;2002-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;2003-01-01;5500
+DERIVADOS;de_Mistelas;Mistelas;2004-01-01;11500
+DERIVADOS;de_Mistelas;Mistelas;2005-01-01;9960
+DERIVADOS;de_Mistelas;Mistelas;2006-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;2007-01-01;1900
+DERIVADOS;de_Mistelas;Mistelas;2008-01-01;2000
+DERIVADOS;de_Mistelas;Mistelas;2009-01-01;3500
+DERIVADOS;de_Mistelas;Mistelas;2010-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;2011-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;2012-01-01;200
+DERIVADOS;de_Mistelas;Mistelas;2013-01-01;2500
+DERIVADOS;de_Mistelas;Mistelas;2014-01-01;1000
+DERIVADOS;de_Mistelas;Mistelas;2015-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;2016-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;2017-01-01;1500
+DERIVADOS;de_Mistelas;Mistelas;2018-01-01;2000
+DERIVADOS;de_Mistelas;Mistelas;2019-01-01;3000
+DERIVADOS;de_Mistelas;Mistelas;2020-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;2021-01-01;2500
+DERIVADOS;de_Mistelas;Mistelas;2022-01-01;0
+DERIVADOS;de_Mistelas;Mistelas;2023-01-01;600
+DERIVADOS;de_Néctar de uva;Néctar de uva;1970-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1971-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1972-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1973-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1974-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1975-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1976-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1977-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1978-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1979-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1980-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1981-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1982-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1983-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1984-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1985-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1986-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1987-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1988-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1989-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1990-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1991-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1992-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1993-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1994-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1995-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1996-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1997-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1998-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;1999-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2000-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2001-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2002-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2003-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2004-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2005-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2006-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2007-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2008-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2009-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2010-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2011-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2012-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2013-01-01;10000
+DERIVADOS;de_Néctar de uva;Néctar de uva;2014-01-01;1140
+DERIVADOS;de_Néctar de uva;Néctar de uva;2015-01-01;1000
+DERIVADOS;de_Néctar de uva;Néctar de uva;2016-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2017-01-01;3000
+DERIVADOS;de_Néctar de uva;Néctar de uva;2018-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2019-01-01;32519
+DERIVADOS;de_Néctar de uva;Néctar de uva;2020-01-01;46000
+DERIVADOS;de_Néctar de uva;Néctar de uva;2021-01-01;18187
+DERIVADOS;de_Néctar de uva;Néctar de uva;2022-01-01;0
+DERIVADOS;de_Néctar de uva;Néctar de uva;2023-01-01;70976
+DERIVADOS;de_Licorosos;Licorosos;1970-01-01;282500
+DERIVADOS;de_Licorosos;Licorosos;1971-01-01;270000
+DERIVADOS;de_Licorosos;Licorosos;1972-01-01;254600
+DERIVADOS;de_Licorosos;Licorosos;1973-01-01;176500
+DERIVADOS;de_Licorosos;Licorosos;1974-01-01;135000
+DERIVADOS;de_Licorosos;Licorosos;1975-01-01;24000
+DERIVADOS;de_Licorosos;Licorosos;1976-01-01;4400
+DERIVADOS;de_Licorosos;Licorosos;1977-01-01;525000
+DERIVADOS;de_Licorosos;Licorosos;1978-01-01;479971
+DERIVADOS;de_Licorosos;Licorosos;1979-01-01;34000
+DERIVADOS;de_Licorosos;Licorosos;1980-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1981-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1982-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1983-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1984-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1985-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1986-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1987-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1988-01-01;3000
+DERIVADOS;de_Licorosos;Licorosos;1989-01-01;20000
+DERIVADOS;de_Licorosos;Licorosos;1990-01-01;24300
+DERIVADOS;de_Licorosos;Licorosos;1991-01-01;11500
+DERIVADOS;de_Licorosos;Licorosos;1992-01-01;7800
+DERIVADOS;de_Licorosos;Licorosos;1993-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1994-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1995-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1996-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1997-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1998-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;1999-01-01;44740
+DERIVADOS;de_Licorosos;Licorosos;2000-01-01;21000
+DERIVADOS;de_Licorosos;Licorosos;2001-01-01;4000
+DERIVADOS;de_Licorosos;Licorosos;2002-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2003-01-01;34420
+DERIVADOS;de_Licorosos;Licorosos;2004-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2005-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2006-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2007-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2008-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2009-01-01;38000
+DERIVADOS;de_Licorosos;Licorosos;2010-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2011-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2012-01-01;26775
+DERIVADOS;de_Licorosos;Licorosos;2013-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2014-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2015-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2016-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2017-01-01;110820
+DERIVADOS;de_Licorosos;Licorosos;2018-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2019-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2020-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2021-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2022-01-01;0
+DERIVADOS;de_Licorosos;Licorosos;2023-01-01;0
+DERIVADOS;de_Compostos;Compostos;1970-01-01;0
+DERIVADOS;de_Compostos;Compostos;1971-01-01;45000
+DERIVADOS;de_Compostos;Compostos;1972-01-01;1358300
+DERIVADOS;de_Compostos;Compostos;1973-01-01;1628000
+DERIVADOS;de_Compostos;Compostos;1974-01-01;0
+DERIVADOS;de_Compostos;Compostos;1975-01-01;0
+DERIVADOS;de_Compostos;Compostos;1976-01-01;0
+DERIVADOS;de_Compostos;Compostos;1977-01-01;0
+DERIVADOS;de_Compostos;Compostos;1978-01-01;75000
+DERIVADOS;de_Compostos;Compostos;1979-01-01;0
+DERIVADOS;de_Compostos;Compostos;1980-01-01;0
+DERIVADOS;de_Compostos;Compostos;1981-01-01;0
+DERIVADOS;de_Compostos;Compostos;1982-01-01;0
+DERIVADOS;de_Compostos;Compostos;1983-01-01;0
+DERIVADOS;de_Compostos;Compostos;1984-01-01;0
+DERIVADOS;de_Compostos;Compostos;1985-01-01;0
+DERIVADOS;de_Compostos;Compostos;1986-01-01;0
+DERIVADOS;de_Compostos;Compostos;1987-01-01;0
+DERIVADOS;de_Compostos;Compostos;1988-01-01;2000
+DERIVADOS;de_Compostos;Compostos;1989-01-01;1900
+DERIVADOS;de_Compostos;Compostos;1990-01-01;0
+DERIVADOS;de_Compostos;Compostos;1991-01-01;0
+DERIVADOS;de_Compostos;Compostos;1992-01-01;0
+DERIVADOS;de_Compostos;Compostos;1993-01-01;0
+DERIVADOS;de_Compostos;Compostos;1994-01-01;0
+DERIVADOS;de_Compostos;Compostos;1995-01-01;0
+DERIVADOS;de_Compostos;Compostos;1996-01-01;0
+DERIVADOS;de_Compostos;Compostos;1997-01-01;0
+DERIVADOS;de_Compostos;Compostos;1998-01-01;0
+DERIVADOS;de_Compostos;Compostos;1999-01-01;0
+DERIVADOS;de_Compostos;Compostos;2000-01-01;0
+DERIVADOS;de_Compostos;Compostos;2001-01-01;0
+DERIVADOS;de_Compostos;Compostos;2002-01-01;0
+DERIVADOS;de_Compostos;Compostos;2003-01-01;0
+DERIVADOS;de_Compostos;Compostos;2004-01-01;0
+DERIVADOS;de_Compostos;Compostos;2005-01-01;0
+DERIVADOS;de_Compostos;Compostos;2006-01-01;0
+DERIVADOS;de_Compostos;Compostos;2007-01-01;0
+DERIVADOS;de_Compostos;Compostos;2008-01-01;0
+DERIVADOS;de_Compostos;Compostos;2009-01-01;0
+DERIVADOS;de_Compostos;Compostos;2010-01-01;0
+DERIVADOS;de_Compostos;Compostos;2011-01-01;0
+DERIVADOS;de_Compostos;Compostos;2012-01-01;7600
+DERIVADOS;de_Compostos;Compostos;2013-01-01;0
+DERIVADOS;de_Compostos;Compostos;2014-01-01;0
+DERIVADOS;de_Compostos;Compostos;2015-01-01;0
+DERIVADOS;de_Compostos;Compostos;2016-01-01;0
+DERIVADOS;de_Compostos;Compostos;2017-01-01;0
+DERIVADOS;de_Compostos;Compostos;2018-01-01;0
+DERIVADOS;de_Compostos;Compostos;2019-01-01;0
+DERIVADOS;de_Compostos;Compostos;2020-01-01;0
+DERIVADOS;de_Compostos;Compostos;2021-01-01;0
+DERIVADOS;de_Compostos;Compostos;2022-01-01;0
+DERIVADOS;de_Compostos;Compostos;2023-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1970-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1971-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1972-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1973-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1974-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1975-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1976-01-01;107500
+DERIVADOS;de_Jeropiga;Jeropiga;1977-01-01;12500
+DERIVADOS;de_Jeropiga;Jeropiga;1978-01-01;60000
+DERIVADOS;de_Jeropiga;Jeropiga;1979-01-01;20000
+DERIVADOS;de_Jeropiga;Jeropiga;1980-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1981-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1982-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1983-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1984-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1985-01-01;234500
+DERIVADOS;de_Jeropiga;Jeropiga;1986-01-01;173000
+DERIVADOS;de_Jeropiga;Jeropiga;1987-01-01;122000
+DERIVADOS;de_Jeropiga;Jeropiga;1988-01-01;61000
+DERIVADOS;de_Jeropiga;Jeropiga;1989-01-01;42000
+DERIVADOS;de_Jeropiga;Jeropiga;1990-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1991-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1992-01-01;60000
+DERIVADOS;de_Jeropiga;Jeropiga;1993-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1994-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1995-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1996-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1997-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1998-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;1999-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2000-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2001-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2002-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2003-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2004-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2005-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2006-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2007-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2008-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2009-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2010-01-01;69000
+DERIVADOS;de_Jeropiga;Jeropiga;2011-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2012-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2013-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2014-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2015-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2016-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2017-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2018-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2019-01-01;0
+DERIVADOS;de_Jeropiga;Jeropiga;2020-01-01;2000
+DERIVADOS;de_Jeropiga;Jeropiga;2021-01-01;3540
+DERIVADOS;de_Jeropiga;Jeropiga;2022-01-01;5000
+DERIVADOS;de_Jeropiga;Jeropiga;2023-01-01;4500
+DERIVADOS;de_Filtrado;Filtrado;1970-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1971-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1972-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1973-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1974-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1975-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1976-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1977-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1978-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1979-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1980-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1981-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1982-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1983-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1984-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1985-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1986-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1987-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1988-01-01;88000
+DERIVADOS;de_Filtrado;Filtrado;1989-01-01;39000
+DERIVADOS;de_Filtrado;Filtrado;1990-01-01;11000
+DERIVADOS;de_Filtrado;Filtrado;1991-01-01;18000
+DERIVADOS;de_Filtrado;Filtrado;1992-01-01;11000
+DERIVADOS;de_Filtrado;Filtrado;1993-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1994-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1995-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1996-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1997-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1998-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;1999-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2000-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2001-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2002-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2003-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2004-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2005-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2006-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2007-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2008-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2009-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2010-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2011-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2012-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2013-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2014-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2015-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2016-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2017-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2018-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2019-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2020-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2021-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2022-01-01;0
+DERIVADOS;de_Filtrado;Filtrado;2023-01-01;0
+DERIVADOS;de_Frisante;Frisante;1970-01-01;0
+DERIVADOS;de_Frisante;Frisante;1971-01-01;0
+DERIVADOS;de_Frisante;Frisante;1972-01-01;0
+DERIVADOS;de_Frisante;Frisante;1973-01-01;0
+DERIVADOS;de_Frisante;Frisante;1974-01-01;0
+DERIVADOS;de_Frisante;Frisante;1975-01-01;0
+DERIVADOS;de_Frisante;Frisante;1976-01-01;0
+DERIVADOS;de_Frisante;Frisante;1977-01-01;0
+DERIVADOS;de_Frisante;Frisante;1978-01-01;0
+DERIVADOS;de_Frisante;Frisante;1979-01-01;0
+DERIVADOS;de_Frisante;Frisante;1980-01-01;0
+DERIVADOS;de_Frisante;Frisante;1981-01-01;0
+DERIVADOS;de_Frisante;Frisante;1982-01-01;0
+DERIVADOS;de_Frisante;Frisante;1983-01-01;0
+DERIVADOS;de_Frisante;Frisante;1984-01-01;0
+DERIVADOS;de_Frisante;Frisante;1985-01-01;0
+DERIVADOS;de_Frisante;Frisante;1986-01-01;0
+DERIVADOS;de_Frisante;Frisante;1987-01-01;0
+DERIVADOS;de_Frisante;Frisante;1988-01-01;0
+DERIVADOS;de_Frisante;Frisante;1989-01-01;0
+DERIVADOS;de_Frisante;Frisante;1990-01-01;0
+DERIVADOS;de_Frisante;Frisante;1991-01-01;0
+DERIVADOS;de_Frisante;Frisante;1992-01-01;0
+DERIVADOS;de_Frisante;Frisante;1993-01-01;0
+DERIVADOS;de_Frisante;Frisante;1994-01-01;0
+DERIVADOS;de_Frisante;Frisante;1995-01-01;0
+DERIVADOS;de_Frisante;Frisante;1996-01-01;0
+DERIVADOS;de_Frisante;Frisante;1997-01-01;0
+DERIVADOS;de_Frisante;Frisante;1998-01-01;0
+DERIVADOS;de_Frisante;Frisante;1999-01-01;0
+DERIVADOS;de_Frisante;Frisante;2000-01-01;0
+DERIVADOS;de_Frisante;Frisante;2001-01-01;0
+DERIVADOS;de_Frisante;Frisante;2002-01-01;0
+DERIVADOS;de_Frisante;Frisante;2003-01-01;0
+DERIVADOS;de_Frisante;Frisante;2004-01-01;0
+DERIVADOS;de_Frisante;Frisante;2005-01-01;0
+DERIVADOS;de_Frisante;Frisante;2006-01-01;0
+DERIVADOS;de_Frisante;Frisante;2007-01-01;0
+DERIVADOS;de_Frisante;Frisante;2008-01-01;0
+DERIVADOS;de_Frisante;Frisante;2009-01-01;0
+DERIVADOS;de_Frisante;Frisante;2010-01-01;831000
+DERIVADOS;de_Frisante;Frisante;2011-01-01;1003800
+DERIVADOS;de_Frisante;Frisante;2012-01-01;778500
+DERIVADOS;de_Frisante;Frisante;2013-01-01;1009000
+DERIVADOS;de_Frisante;Frisante;2014-01-01;26069
+DERIVADOS;de_Frisante;Frisante;2015-01-01;0
+DERIVADOS;de_Frisante;Frisante;2016-01-01;0
+DERIVADOS;de_Frisante;Frisante;2017-01-01;0
+DERIVADOS;de_Frisante;Frisante;2018-01-01;0
+DERIVADOS;de_Frisante;Frisante;2019-01-01;0
+DERIVADOS;de_Frisante;Frisante;2020-01-01;0
+DERIVADOS;de_Frisante;Frisante;2021-01-01;1390
+DERIVADOS;de_Frisante;Frisante;2022-01-01;0
+DERIVADOS;de_Frisante;Frisante;2023-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1970-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1971-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1972-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1973-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1974-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1975-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1976-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1977-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1978-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1979-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1980-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1981-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1982-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1983-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1984-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1985-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1986-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1987-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1988-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1989-01-01;249000
+DERIVADOS;de_Vinho leve;Vinho leve;1990-01-01;264000
+DERIVADOS;de_Vinho leve;Vinho leve;1991-01-01;192800
+DERIVADOS;de_Vinho leve;Vinho leve;1992-01-01;144500
+DERIVADOS;de_Vinho leve;Vinho leve;1993-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1994-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1995-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1996-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1997-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1998-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;1999-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2000-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2001-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2002-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2003-01-01;11000
+DERIVADOS;de_Vinho leve;Vinho leve;2004-01-01;6000
+DERIVADOS;de_Vinho leve;Vinho leve;2005-01-01;16500
+DERIVADOS;de_Vinho leve;Vinho leve;2006-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2007-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2008-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2009-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2010-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2011-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2012-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2013-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2014-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2015-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2016-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2017-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2018-01-01;8000
+DERIVADOS;de_Vinho leve;Vinho leve;2019-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2020-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2021-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2022-01-01;0
+DERIVADOS;de_Vinho leve;Vinho leve;2023-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1970-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1971-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1972-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1973-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1974-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1975-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1976-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1977-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1978-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1979-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1980-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1981-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1982-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1983-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1984-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1985-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1986-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1987-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1988-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1989-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1990-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1991-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1992-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1993-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1994-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1995-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1996-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1997-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1998-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;1999-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2000-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2001-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2002-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2003-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2004-01-01;77800
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2005-01-01;125700
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2006-01-01;28500
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2007-01-01;27926
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2008-01-01;65650
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2009-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2010-01-01;15000
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2011-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2012-01-01;0
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2013-01-01;100
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2014-01-01;36000
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2015-01-01;56000
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2016-01-01;24200
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2017-01-01;110820
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2018-01-01;124303
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2019-01-01;99485
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2020-01-01;48678
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2021-01-01;30000
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2022-01-01;67000
+DERIVADOS;de_Vinho licoroso;Vinho licoroso;2023-01-01;73600
+DERIVADOS;de_Brandy;Brandy;1970-01-01;0
+DERIVADOS;de_Brandy;Brandy;1971-01-01;0
+DERIVADOS;de_Brandy;Brandy;1972-01-01;0
+DERIVADOS;de_Brandy;Brandy;1973-01-01;0
+DERIVADOS;de_Brandy;Brandy;1974-01-01;0
+DERIVADOS;de_Brandy;Brandy;1975-01-01;0
+DERIVADOS;de_Brandy;Brandy;1976-01-01;0
+DERIVADOS;de_Brandy;Brandy;1977-01-01;0
+DERIVADOS;de_Brandy;Brandy;1978-01-01;0
+DERIVADOS;de_Brandy;Brandy;1979-01-01;0
+DERIVADOS;de_Brandy;Brandy;1980-01-01;0
+DERIVADOS;de_Brandy;Brandy;1981-01-01;0
+DERIVADOS;de_Brandy;Brandy;1982-01-01;0
+DERIVADOS;de_Brandy;Brandy;1983-01-01;0
+DERIVADOS;de_Brandy;Brandy;1984-01-01;0
+DERIVADOS;de_Brandy;Brandy;1985-01-01;13000
+DERIVADOS;de_Brandy;Brandy;1986-01-01;0
+DERIVADOS;de_Brandy;Brandy;1987-01-01;0
+DERIVADOS;de_Brandy;Brandy;1988-01-01;5216
+DERIVADOS;de_Brandy;Brandy;1989-01-01;6500
+DERIVADOS;de_Brandy;Brandy;1990-01-01;0
+DERIVADOS;de_Brandy;Brandy;1991-01-01;0
+DERIVADOS;de_Brandy;Brandy;1992-01-01;0
+DERIVADOS;de_Brandy;Brandy;1993-01-01;0
+DERIVADOS;de_Brandy;Brandy;1994-01-01;0
+DERIVADOS;de_Brandy;Brandy;1995-01-01;0
+DERIVADOS;de_Brandy;Brandy;1996-01-01;0
+DERIVADOS;de_Brandy;Brandy;1997-01-01;0
+DERIVADOS;de_Brandy;Brandy;1998-01-01;0
+DERIVADOS;de_Brandy;Brandy;1999-01-01;0
+DERIVADOS;de_Brandy;Brandy;2000-01-01;0
+DERIVADOS;de_Brandy;Brandy;2001-01-01;0
+DERIVADOS;de_Brandy;Brandy;2002-01-01;0
+DERIVADOS;de_Brandy;Brandy;2003-01-01;0
+DERIVADOS;de_Brandy;Brandy;2004-01-01;0
+DERIVADOS;de_Brandy;Brandy;2005-01-01;0
+DERIVADOS;de_Brandy;Brandy;2006-01-01;0
+DERIVADOS;de_Brandy;Brandy;2007-01-01;0
+DERIVADOS;de_Brandy;Brandy;2008-01-01;0
+DERIVADOS;de_Brandy;Brandy;2009-01-01;0
+DERIVADOS;de_Brandy;Brandy;2010-01-01;0
+DERIVADOS;de_Brandy;Brandy;2011-01-01;0
+DERIVADOS;de_Brandy;Brandy;2012-01-01;0
+DERIVADOS;de_Brandy;Brandy;2013-01-01;0
+DERIVADOS;de_Brandy;Brandy;2014-01-01;0
+DERIVADOS;de_Brandy;Brandy;2015-01-01;0
+DERIVADOS;de_Brandy;Brandy;2016-01-01;0
+DERIVADOS;de_Brandy;Brandy;2017-01-01;0
+DERIVADOS;de_Brandy;Brandy;2018-01-01;0
+DERIVADOS;de_Brandy;Brandy;2019-01-01;0
+DERIVADOS;de_Brandy;Brandy;2020-01-01;0
+DERIVADOS;de_Brandy;Brandy;2021-01-01;120
+DERIVADOS;de_Brandy;Brandy;2022-01-01;0
+DERIVADOS;de_Brandy;Brandy;2023-01-01;450
+DERIVADOS;de_Destilado;Destilado;1970-01-01;830030
+DERIVADOS;de_Destilado;Destilado;1971-01-01;0
+DERIVADOS;de_Destilado;Destilado;1972-01-01;0
+DERIVADOS;de_Destilado;Destilado;1973-01-01;0
+DERIVADOS;de_Destilado;Destilado;1974-01-01;0
+DERIVADOS;de_Destilado;Destilado;1975-01-01;0
+DERIVADOS;de_Destilado;Destilado;1976-01-01;0
+DERIVADOS;de_Destilado;Destilado;1977-01-01;0
+DERIVADOS;de_Destilado;Destilado;1978-01-01;0
+DERIVADOS;de_Destilado;Destilado;1979-01-01;0
+DERIVADOS;de_Destilado;Destilado;1980-01-01;0
+DERIVADOS;de_Destilado;Destilado;1981-01-01;0
+DERIVADOS;de_Destilado;Destilado;1982-01-01;0
+DERIVADOS;de_Destilado;Destilado;1983-01-01;0
+DERIVADOS;de_Destilado;Destilado;1984-01-01;0
+DERIVADOS;de_Destilado;Destilado;1985-01-01;342650
+DERIVADOS;de_Destilado;Destilado;1986-01-01;222230
+DERIVADOS;de_Destilado;Destilado;1987-01-01;472576
+DERIVADOS;de_Destilado;Destilado;1988-01-01;287220
+DERIVADOS;de_Destilado;Destilado;1989-01-01;176800
+DERIVADOS;de_Destilado;Destilado;1990-01-01;0
+DERIVADOS;de_Destilado;Destilado;1991-01-01;0
+DERIVADOS;de_Destilado;Destilado;1992-01-01;0
+DERIVADOS;de_Destilado;Destilado;1993-01-01;0
+DERIVADOS;de_Destilado;Destilado;1994-01-01;0
+DERIVADOS;de_Destilado;Destilado;1995-01-01;0
+DERIVADOS;de_Destilado;Destilado;1996-01-01;0
+DERIVADOS;de_Destilado;Destilado;1997-01-01;0
+DERIVADOS;de_Destilado;Destilado;1998-01-01;0
+DERIVADOS;de_Destilado;Destilado;1999-01-01;7350
+DERIVADOS;de_Destilado;Destilado;2000-01-01;1960
+DERIVADOS;de_Destilado;Destilado;2001-01-01;0
+DERIVADOS;de_Destilado;Destilado;2002-01-01;0
+DERIVADOS;de_Destilado;Destilado;2003-01-01;0
+DERIVADOS;de_Destilado;Destilado;2004-01-01;1000
+DERIVADOS;de_Destilado;Destilado;2005-01-01;0
+DERIVADOS;de_Destilado;Destilado;2006-01-01;0
+DERIVADOS;de_Destilado;Destilado;2007-01-01;0
+DERIVADOS;de_Destilado;Destilado;2008-01-01;0
+DERIVADOS;de_Destilado;Destilado;2009-01-01;0
+DERIVADOS;de_Destilado;Destilado;2010-01-01;0
+DERIVADOS;de_Destilado;Destilado;2011-01-01;0
+DERIVADOS;de_Destilado;Destilado;2012-01-01;0
+DERIVADOS;de_Destilado;Destilado;2013-01-01;0
+DERIVADOS;de_Destilado;Destilado;2014-01-01;0
+DERIVADOS;de_Destilado;Destilado;2015-01-01;0
+DERIVADOS;de_Destilado;Destilado;2016-01-01;0
+DERIVADOS;de_Destilado;Destilado;2017-01-01;0
+DERIVADOS;de_Destilado;Destilado;2018-01-01;680
+DERIVADOS;de_Destilado;Destilado;2019-01-01;0
+DERIVADOS;de_Destilado;Destilado;2020-01-01;0
+DERIVADOS;de_Destilado;Destilado;2021-01-01;0
+DERIVADOS;de_Destilado;Destilado;2022-01-01;0
+DERIVADOS;de_Destilado;Destilado;2023-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1970-01-01;961290
+DERIVADOS;de_Bagaceira;Bagaceira;1971-01-01;913200
+DERIVADOS;de_Bagaceira;Bagaceira;1972-01-01;755350
+DERIVADOS;de_Bagaceira;Bagaceira;1973-01-01;661270
+DERIVADOS;de_Bagaceira;Bagaceira;1974-01-01;424620
+DERIVADOS;de_Bagaceira;Bagaceira;1975-01-01;576098
+DERIVADOS;de_Bagaceira;Bagaceira;1976-01-01;705912
+DERIVADOS;de_Bagaceira;Bagaceira;1977-01-01;828000
+DERIVADOS;de_Bagaceira;Bagaceira;1978-01-01;698200
+DERIVADOS;de_Bagaceira;Bagaceira;1979-01-01;938090
+DERIVADOS;de_Bagaceira;Bagaceira;1980-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1981-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1982-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1983-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1984-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1985-01-01;299500
+DERIVADOS;de_Bagaceira;Bagaceira;1986-01-01;156100
+DERIVADOS;de_Bagaceira;Bagaceira;1987-01-01;325600
+DERIVADOS;de_Bagaceira;Bagaceira;1988-01-01;29000
+DERIVADOS;de_Bagaceira;Bagaceira;1989-01-01;52000
+DERIVADOS;de_Bagaceira;Bagaceira;1990-01-01;55000
+DERIVADOS;de_Bagaceira;Bagaceira;1991-01-01;15000
+DERIVADOS;de_Bagaceira;Bagaceira;1992-01-01;10000
+DERIVADOS;de_Bagaceira;Bagaceira;1993-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1994-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1995-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1996-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1997-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1998-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;1999-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;2000-01-01;12700
+DERIVADOS;de_Bagaceira;Bagaceira;2001-01-01;10350
+DERIVADOS;de_Bagaceira;Bagaceira;2002-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;2003-01-01;26800
+DERIVADOS;de_Bagaceira;Bagaceira;2004-01-01;66082
+DERIVADOS;de_Bagaceira;Bagaceira;2005-01-01;32050
+DERIVADOS;de_Bagaceira;Bagaceira;2006-01-01;24250
+DERIVADOS;de_Bagaceira;Bagaceira;2007-01-01;48500
+DERIVADOS;de_Bagaceira;Bagaceira;2008-01-01;8500
+DERIVADOS;de_Bagaceira;Bagaceira;2009-01-01;6500
+DERIVADOS;de_Bagaceira;Bagaceira;2010-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;2011-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;2012-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;2013-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;2014-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;2015-01-01;1350
+DERIVADOS;de_Bagaceira;Bagaceira;2016-01-01;1000
+DERIVADOS;de_Bagaceira;Bagaceira;2017-01-01;900
+DERIVADOS;de_Bagaceira;Bagaceira;2018-01-01;2100
+DERIVADOS;de_Bagaceira;Bagaceira;2019-01-01;10495
+DERIVADOS;de_Bagaceira;Bagaceira;2020-01-01;0
+DERIVADOS;de_Bagaceira;Bagaceira;2021-01-01;12060
+DERIVADOS;de_Bagaceira;Bagaceira;2022-01-01;4998
+DERIVADOS;de_Bagaceira;Bagaceira;2023-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1970-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1971-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1972-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1973-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1974-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1975-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1976-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1977-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1978-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1979-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1980-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1981-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1982-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1983-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1984-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1985-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1986-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1987-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1988-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1989-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1990-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1991-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1992-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1993-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1994-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1995-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1996-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1997-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1998-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;1999-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2000-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2001-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2002-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2003-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2004-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2005-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2006-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2007-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2008-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2009-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2010-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2011-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2012-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2013-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2014-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2015-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2016-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2017-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2018-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2019-01-01;1507
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2020-01-01;5800
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2021-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2022-01-01;0
+DERIVADOS;de_Licor de bagaceira;Licor de bagaceira;2023-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1970-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1971-01-01;21500
+DERIVADOS;de_Vinagre;Vinagre;1972-01-01;8200
+DERIVADOS;de_Vinagre;Vinagre;1973-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1974-01-01;35300
+DERIVADOS;de_Vinagre;Vinagre;1975-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1976-01-01;288000
+DERIVADOS;de_Vinagre;Vinagre;1977-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1978-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1979-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1980-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1981-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1982-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1983-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1984-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1985-01-01;104707
+DERIVADOS;de_Vinagre;Vinagre;1986-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1987-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1988-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1989-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1990-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1991-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1992-01-01;45000
+DERIVADOS;de_Vinagre;Vinagre;1993-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1994-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1995-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1996-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1997-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1998-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;1999-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2000-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2001-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2002-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2003-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2004-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2005-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2006-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2007-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2008-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2009-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2010-01-01;5817
+DERIVADOS;de_Vinagre;Vinagre;2011-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2012-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2013-01-01;0
+DERIVADOS;de_Vinagre;Vinagre;2014-01-01;53776
+DERIVADOS;de_Vinagre;Vinagre;2015-01-01;25800
+DERIVADOS;de_Vinagre;Vinagre;2016-01-01;5000
+DERIVADOS;de_Vinagre;Vinagre;2017-01-01;25319
+DERIVADOS;de_Vinagre;Vinagre;2018-01-01;25367
+DERIVADOS;de_Vinagre;Vinagre;2019-01-01;76096
+DERIVADOS;de_Vinagre;Vinagre;2020-01-01;10000
+DERIVADOS;de_Vinagre;Vinagre;2021-01-01;7500
+DERIVADOS;de_Vinagre;Vinagre;2022-01-01;16200
+DERIVADOS;de_Vinagre;Vinagre;2023-01-01;9000
+DERIVADOS;de_Borra líquida;Borra líquida;1970-01-01;3847673
+DERIVADOS;de_Borra líquida;Borra líquida;1971-01-01;3565644
+DERIVADOS;de_Borra líquida;Borra líquida;1972-01-01;3015037
+DERIVADOS;de_Borra líquida;Borra líquida;1973-01-01;3559922
+DERIVADOS;de_Borra líquida;Borra líquida;1974-01-01;5136979
+DERIVADOS;de_Borra líquida;Borra líquida;1975-01-01;4624839
+DERIVADOS;de_Borra líquida;Borra líquida;1976-01-01;3393173
+DERIVADOS;de_Borra líquida;Borra líquida;1977-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1978-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1979-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1980-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1981-01-01;3767852
+DERIVADOS;de_Borra líquida;Borra líquida;1982-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1983-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1984-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1985-01-01;5095798
+DERIVADOS;de_Borra líquida;Borra líquida;1986-01-01;6357648
+DERIVADOS;de_Borra líquida;Borra líquida;1987-01-01;5142446
+DERIVADOS;de_Borra líquida;Borra líquida;1988-01-01;1953488
+DERIVADOS;de_Borra líquida;Borra líquida;1989-01-01;2426804
+DERIVADOS;de_Borra líquida;Borra líquida;1990-01-01;1282381
+DERIVADOS;de_Borra líquida;Borra líquida;1991-01-01;1649130
+DERIVADOS;de_Borra líquida;Borra líquida;1992-01-01;1400200
+DERIVADOS;de_Borra líquida;Borra líquida;1993-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1994-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1995-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1996-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1997-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1998-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;1999-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;2000-01-01;9626928
+DERIVADOS;de_Borra líquida;Borra líquida;2001-01-01;8216162
+DERIVADOS;de_Borra líquida;Borra líquida;2002-01-01;8541861
+DERIVADOS;de_Borra líquida;Borra líquida;2003-01-01;3126172
+DERIVADOS;de_Borra líquida;Borra líquida;2004-01-01;1044490
+DERIVADOS;de_Borra líquida;Borra líquida;2005-01-01;526016
+DERIVADOS;de_Borra líquida;Borra líquida;2006-01-01;57333
+DERIVADOS;de_Borra líquida;Borra líquida;2007-01-01;2095873
+DERIVADOS;de_Borra líquida;Borra líquida;2008-01-01;1679775
+DERIVADOS;de_Borra líquida;Borra líquida;2009-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;2010-01-01;64304
+DERIVADOS;de_Borra líquida;Borra líquida;2011-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;2012-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;2013-01-01;63111
+DERIVADOS;de_Borra líquida;Borra líquida;2014-01-01;50954
+DERIVADOS;de_Borra líquida;Borra líquida;2015-01-01;48833
+DERIVADOS;de_Borra líquida;Borra líquida;2016-01-01;24975
+DERIVADOS;de_Borra líquida;Borra líquida;2017-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;2018-01-01;255100
+DERIVADOS;de_Borra líquida;Borra líquida;2019-01-01;901431
+DERIVADOS;de_Borra líquida;Borra líquida;2020-01-01;509378
+DERIVADOS;de_Borra líquida;Borra líquida;2021-01-01;116450
+DERIVADOS;de_Borra líquida;Borra líquida;2022-01-01;0
+DERIVADOS;de_Borra líquida;Borra líquida;2023-01-01;758140
+DERIVADOS;de_Borra seca;Borra seca;1970-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1971-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1972-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1973-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1974-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1975-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1976-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1977-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1978-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1979-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1980-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1981-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1982-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1983-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1984-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1985-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1986-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1987-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1988-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1989-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1990-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1991-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1992-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1993-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1994-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1995-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1996-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1997-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1998-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;1999-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2000-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2001-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2002-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2003-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2004-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2005-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2006-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2007-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2008-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2009-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2010-01-01;149981
+DERIVADOS;de_Borra seca;Borra seca;2011-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2012-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2013-01-01;78397
+DERIVADOS;de_Borra seca;Borra seca;2014-01-01;142850
+DERIVADOS;de_Borra seca;Borra seca;2015-01-01;120230
+DERIVADOS;de_Borra seca;Borra seca;2016-01-01;82367
+DERIVADOS;de_Borra seca;Borra seca;2017-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2018-01-01;70480
+DERIVADOS;de_Borra seca;Borra seca;2019-01-01;25996
+DERIVADOS;de_Borra seca;Borra seca;2020-01-01;167587
+DERIVADOS;de_Borra seca;Borra seca;2021-01-01;16789
+DERIVADOS;de_Borra seca;Borra seca;2022-01-01;0
+DERIVADOS;de_Borra seca;Borra seca;2023-01-01;17200
+DERIVADOS;de_Vinho Composto;Vinho Composto;1970-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1971-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1972-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1973-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1974-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1975-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1976-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1977-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1978-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1979-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1980-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1981-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1982-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1983-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1984-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1985-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1986-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1987-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1988-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1989-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1990-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1991-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1992-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1993-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1994-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1995-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1996-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1997-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1998-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;1999-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2000-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2001-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2002-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2003-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2004-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2005-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2006-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2007-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2008-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2009-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2010-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2011-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2012-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2013-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2014-01-01;3000
+DERIVADOS;de_Vinho Composto;Vinho Composto;2015-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2016-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2017-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2018-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2019-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2020-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2021-01-01;160000
+DERIVADOS;de_Vinho Composto;Vinho Composto;2022-01-01;0
+DERIVADOS;de_Vinho Composto;Vinho Composto;2023-01-01;0
+DERIVADOS;de_Pisco;Pisco;1970-01-01;0
+DERIVADOS;de_Pisco;Pisco;1971-01-01;0
+DERIVADOS;de_Pisco;Pisco;1972-01-01;0
+DERIVADOS;de_Pisco;Pisco;1973-01-01;0
+DERIVADOS;de_Pisco;Pisco;1974-01-01;0
+DERIVADOS;de_Pisco;Pisco;1975-01-01;0
+DERIVADOS;de_Pisco;Pisco;1976-01-01;0
+DERIVADOS;de_Pisco;Pisco;1977-01-01;0
+DERIVADOS;de_Pisco;Pisco;1978-01-01;0
+DERIVADOS;de_Pisco;Pisco;1979-01-01;0
+DERIVADOS;de_Pisco;Pisco;1980-01-01;0
+DERIVADOS;de_Pisco;Pisco;1981-01-01;0
+DERIVADOS;de_Pisco;Pisco;1982-01-01;0
+DERIVADOS;de_Pisco;Pisco;1983-01-01;0
+DERIVADOS;de_Pisco;Pisco;1984-01-01;0
+DERIVADOS;de_Pisco;Pisco;1985-01-01;0
+DERIVADOS;de_Pisco;Pisco;1986-01-01;0
+DERIVADOS;de_Pisco;Pisco;1987-01-01;0
+DERIVADOS;de_Pisco;Pisco;1988-01-01;0
+DERIVADOS;de_Pisco;Pisco;1989-01-01;0
+DERIVADOS;de_Pisco;Pisco;1990-01-01;0
+DERIVADOS;de_Pisco;Pisco;1991-01-01;0
+DERIVADOS;de_Pisco;Pisco;1992-01-01;0
+DERIVADOS;de_Pisco;Pisco;1993-01-01;0
+DERIVADOS;de_Pisco;Pisco;1994-01-01;0
+DERIVADOS;de_Pisco;Pisco;1995-01-01;0
+DERIVADOS;de_Pisco;Pisco;1996-01-01;0
+DERIVADOS;de_Pisco;Pisco;1997-01-01;0
+DERIVADOS;de_Pisco;Pisco;1998-01-01;0
+DERIVADOS;de_Pisco;Pisco;1999-01-01;0
+DERIVADOS;de_Pisco;Pisco;2000-01-01;0
+DERIVADOS;de_Pisco;Pisco;2001-01-01;0
+DERIVADOS;de_Pisco;Pisco;2002-01-01;0
+DERIVADOS;de_Pisco;Pisco;2003-01-01;0
+DERIVADOS;de_Pisco;Pisco;2004-01-01;0
+DERIVADOS;de_Pisco;Pisco;2005-01-01;0
+DERIVADOS;de_Pisco;Pisco;2006-01-01;0
+DERIVADOS;de_Pisco;Pisco;2007-01-01;0
+DERIVADOS;de_Pisco;Pisco;2008-01-01;0
+DERIVADOS;de_Pisco;Pisco;2009-01-01;0
+DERIVADOS;de_Pisco;Pisco;2010-01-01;0
+DERIVADOS;de_Pisco;Pisco;2011-01-01;0
+DERIVADOS;de_Pisco;Pisco;2012-01-01;0
+DERIVADOS;de_Pisco;Pisco;2013-01-01;0
+DERIVADOS;de_Pisco;Pisco;2014-01-01;0
+DERIVADOS;de_Pisco;Pisco;2015-01-01;0
+DERIVADOS;de_Pisco;Pisco;2016-01-01;0
+DERIVADOS;de_Pisco;Pisco;2017-01-01;0
+DERIVADOS;de_Pisco;Pisco;2018-01-01;0
+DERIVADOS;de_Pisco;Pisco;2019-01-01;3372
+DERIVADOS;de_Pisco;Pisco;2020-01-01;1000
+DERIVADOS;de_Pisco;Pisco;2021-01-01;0
+DERIVADOS;de_Pisco;Pisco;2022-01-01;0
+DERIVADOS;de_Pisco;Pisco;2023-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1970-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1971-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1972-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1973-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1974-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1975-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1976-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1977-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1978-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1979-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1980-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1981-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1982-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1983-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1984-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1985-01-01;254000
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1986-01-01;171147
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1987-01-01;219100
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1988-01-01;15000
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1989-01-01;85000
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1990-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1991-01-01;137000
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1992-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1993-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1994-01-01;4745442
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1995-01-01;2454500
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1996-01-01;351426
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1997-01-01;4997317
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1998-01-01;3265781
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;1999-01-01;8592228
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2000-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2001-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2002-01-01;6705487
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2003-01-01;7584380
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2004-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2005-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2006-01-01;22933
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2007-01-01;307410
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2008-01-01;15000
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2009-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2010-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2011-01-01;5600
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2012-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2013-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2014-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2015-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2016-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2017-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2018-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2019-01-01;0
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2020-01-01;18700
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2021-01-01;93884
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2022-01-01;88890
+DERIVADOS;de_Vinho orgânico;Vinho orgânico;2023-01-01;94150
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1970-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1971-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1972-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1973-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1974-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1975-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1976-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1977-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1978-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1979-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1980-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1981-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1982-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1983-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1984-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1985-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1986-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1987-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1988-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1989-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1990-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1991-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1992-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1993-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1994-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1995-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1996-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1997-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1998-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;1999-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2000-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2001-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2002-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2003-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2004-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2005-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2006-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2007-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2008-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2009-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2010-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2011-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2012-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2013-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2014-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2015-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2016-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2017-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2018-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2019-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2020-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2021-01-01;2412
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2022-01-01;0
+DERIVADOS;de_Espumante orgânico;Espumante orgânico;2023-01-01;1365
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1970-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1971-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1972-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1973-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1974-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1975-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1976-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1977-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1978-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1979-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1980-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1981-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1982-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1983-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1984-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1985-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1986-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1987-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1988-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1989-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1990-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1991-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1992-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1993-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1994-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1995-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1996-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1997-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1998-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1999-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2000-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2001-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2002-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2003-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2004-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2005-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2006-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2007-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2008-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2009-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2010-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2011-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2012-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2013-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2014-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2015-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2016-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2017-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2018-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2019-01-01;0
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2020-01-01;500
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2021-01-01;3000
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2022-01-01;4300
+DERIVADOS;de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2023-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1970-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1971-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1972-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1973-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1974-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1975-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1976-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1977-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1978-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1979-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1980-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1981-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1982-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1983-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1984-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1985-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1986-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1987-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1988-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1989-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1990-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1991-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1992-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1993-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1994-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1995-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1996-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1997-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1998-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;1999-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2000-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2001-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2002-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2003-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2004-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2005-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2006-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2007-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2008-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2009-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2010-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2011-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2012-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2013-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2014-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2015-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2016-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2017-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2018-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2019-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2020-01-01;65000
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2021-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2022-01-01;0
+DERIVADOS;de_Vinho acidificado ;Vinho acidificado ;2023-01-01;2500
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1970-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1971-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1972-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1973-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1974-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1975-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1976-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1977-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1978-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1979-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1980-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1981-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1982-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1983-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1984-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1985-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1986-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1987-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1988-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1989-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1990-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1991-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1992-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1993-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1994-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1995-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1996-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1997-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1998-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1999-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2000-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2001-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2002-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2003-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2004-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2005-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2006-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2007-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2008-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2009-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2010-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2011-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2012-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2013-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2014-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2015-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2016-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2017-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2018-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2019-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2020-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2021-01-01;543510
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2022-01-01;0
+DERIVADOS;de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2023-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1970-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1971-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1972-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1973-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1974-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1975-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1976-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1977-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1978-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1979-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1980-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1981-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1982-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1983-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1984-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1985-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1986-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1987-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1988-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1989-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1990-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1991-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1992-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1993-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1994-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1995-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1996-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1997-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1998-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;1999-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2000-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2001-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2002-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2003-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2004-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2005-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2006-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2007-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2008-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2009-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2010-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2011-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2012-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2013-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2014-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2015-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2016-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2017-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2018-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2019-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2020-01-01;0
+DERIVADOS;de_Outros derivados;Outros derivados;2021-01-01;322
+DERIVADOS;de_Outros derivados;Outros derivados;2022-01-01;247228
+DERIVADOS;de_Outros derivados;Outros derivados;2023-01-01;652301

@@ -40,4 +40,5 @@ A execução dos scripts devem gerar os seguintes arquivos em **fase1/tech_chall
 - ProducaoFinal.csv
 - paises.csv
 
-Os arquivos **.csv** supracitados foram utilizados para produção do trabalho final, que esta em **Tech_Challenge_-_FIAP_Grupo_17.pdf**
+Os arquivos **.csv** supracitados foram utilizados para produção do trabalho final: 
+- [**Tech_Challenge_-_FIAP_Grupo_17.pdf**](https://github.com/hermanouchoa/postechfiap/blob/919660fd5ad5c9c91af28f8897f9f115d11c9751/fase1/tech_challenge/Tech_Challenge_-_FIAP_Grupo_17.pdf)

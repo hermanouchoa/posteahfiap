@@ -1,1 +1,2 @@
-- Scripts para tratamento de dados para entrega do tech_challenge, fase 1: fase1/tech_challenge
+### Repositório para entrega de atividades na PósTech FIAP 
+- [Scripts para tratamento de dados para entrega do **Tech Challenge** da **FASE 1**:  fase1/tech_challenge](https://github.com/hermanouchoa/postechfiap/tree/919660fd5ad5c9c91af28f8897f9f115d11c9751/fase1/tech_challenge)

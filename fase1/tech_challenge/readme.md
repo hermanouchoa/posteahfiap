@@ -28,7 +28,7 @@
 *Exportação de Países*
 1. paises.py
 
-### A execução dos scripts devem geram os seguintes arquivos em "fase1/tech_challenge/dados/final":
+### A execução dos scripts devem gerar os seguintes arquivos em "fase1/tech_challenge/dados/final":
 - ComercializacaoFinal.csv
 - ExportacaoFinal.csv
 - ImportacaoFinal.csv

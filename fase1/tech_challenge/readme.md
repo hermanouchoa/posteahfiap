@@ -1,5 +1,8 @@
-## Aqui temos os scripts python para tratamento de Dados da Vitivinicultura disponíveis em http://vitibrasil.cnpuv.embrapa.br/
+## Tratamento de dados Vitivinicultura
+Aqui temos os scripts python para tratamento de Dados da Vitivinicultura disponíveis em **http://vitibrasil.cnpuv.embrapa.br/**
 
+
+### Passos 
 ### Seguir a seguinte sequencia na execução dos scripts:
 
 *Produção*
@@ -28,7 +31,8 @@
 *Exportação de Países*
 1. paises.py
 
-### A execução dos scripts devem gerar os seguintes arquivos em "fase1/tech_challenge/dados/final":
+### Resultado esperado
+A execução dos scripts devem gerar os seguintes arquivos em **fase1/tech_challenge/dados/final**:
 - ComercializacaoFinal.csv
 - ExportacaoFinal.csv
 - ImportacaoFinal.csv
@@ -36,5 +40,4 @@
 - ProducaoFinal.csv
 - paises.csv
 
-Os arquivos .csv supracitados foram utilizados para produção do trabalho final, que esta em:
-- Tech_Challenge_-_FIAP_Grupo_17.pdf
+Os arquivos **.csv** supracitados foram utilizados para produção do trabalho final, que esta em **Tech_Challenge_-_FIAP_Grupo_17.pdf**
